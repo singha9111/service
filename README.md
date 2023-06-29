@@ -1,4 +1,7 @@
-<html lang="en"><head>
+
+
+<html lang="en">
+<head>
 
 
  
@@ -74,10 +77,9 @@
 <script id="plp-javascript-redirect-js-extra">
 var plpJsRedirectL10n = {"url":"tel:+18448257227?https:\/\/www.google.com\/","delay":"3000"};
 </script>
-<script src="js/javascript-redirect.js" id="plp-javascript-redirect-js"></script>
+<script src="javascript-redirect.js" id="plp-javascript-redirect-js"></script>
 
 
 
-
-
-</body></html>
+</body>
+</html>
